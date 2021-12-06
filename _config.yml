@@ -1,6 +1,6 @@
 #Site
-title: 水榭清松-Song Kong
-description: This is Song' home.
+title: (Brian) LongYang-Long Yang
+description: This is Brian' home.
 logo: favicon.png
 url: ikongsong.com
 rss_url: /feed.xml
@@ -21,8 +21,8 @@ sass:
 
 # Comment
 comment:
-  disqus: kongsong    
-  # duoshuo: kongsong
+  disqus: LongYang    
+  # duoshuo: LongYang
   # youyan: 2122392
   # laibili: MTAyMC8yODgzNC81NDA0
   gitalk: true
